@@ -37,7 +37,7 @@ const translations = {
         services_additional: "Our approach goes beyond translation. If you need English-language content that's grounded in careful listening and investigation, Kotonoha offers a dependable partner.",
         
         // Contact Section
-        contact_title: "Work With Us",
+        contact_title: "Get in Touch",
         contact_subtitle: "Ready to bring your words to life? Contact us for a free consultation.",
         contact_name: "Name:",
         contact_email: "Email:",
