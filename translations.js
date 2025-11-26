@@ -38,10 +38,10 @@ const translations = {
         
         // Contact Section
         contact_title: "Get in Touch",
-        contact_subtitle: "Ready to bring your words to life? Contact us for a free consultation.",
+        contact_subtitle: "Ready to bring your words to life?<br>Contact us for a free consultation.<br>Email: kotonoha.writing.jp@gmail.com",
         contact_name: "Name:",
         contact_email: "Email:",
-        contact_message: "Your Project Idea:",
+        contact_message: "Your Message:",
         contact_btn: "Send Inquiry",
         contact_success: "✅ Thank you! Your inquiry has been sent. We will be in touch shortly.",
         
@@ -72,7 +72,7 @@ const translations = {
         
         // Works.html
         works_hero: "Published Works",
-        works_hero_subtitle: "Discover Kotonha's tone and versatility through our portfolio",
+        works_hero_subtitle: "Discover Kotonha's tone and versatility<br>through our portfolio",
         trusted_by: "Trusted By",
         portfolio: "Our Portfolio",
         cta_title: "Ready to Bring Your Story to Life?",
@@ -102,7 +102,7 @@ const translations = {
         nav_contact: "お問い合わせ",
         
        // Index.html - Hero
-        hero_subtitle: "お客様の物語を英語で世界へ届けるライティングスタジオ",
+        hero_subtitle: "お客様の物語を英語で<br>世界へ届けるライティングスタジオ",
         hero_btn: "サービス内容を見る",
 
         // About Section
@@ -131,7 +131,7 @@ const translations = {
         service3_desc: "英語記事、プレスリリース、メディア向け原稿を執筆します。英文メディアへの寄稿を希望される個人の方には、企画書（ピッチ）の作成から、編集部とのやり取りを含む記事化まで一貫してサポートします。編集部向けには、ご指定の内容に沿った記事原稿をご提供します。",
         services_additional: "Kotonohaは、お客様の「まだ言葉になっていない想い」を丁寧に汲み取り、翻訳以上の精度で英語に仕立てるスタジオです。日本語でお話しください。その想いを英語で世界に届けるお手伝いをします。",    
         contact_title: "お問い合わせ",
-        contact_subtitle: "ご相談、お待ちしております。",
+        contact_subtitle: "ご相談、お待ちしております。<br> Email: kotonoha.writing.jp@gmail.com",
         contact_name: "お名前：",
         contact_email: "メール：",
         contact_message: "ご相談内容：",
@@ -158,22 +158,22 @@ const translations = {
         expertise_academic_link: "学術ライティングサンプル",
         expertise_academic_link2: "ポートフォリオを見る",
 
-        expertise_creative: "創作ライティング・ストーリーテリング",
+        expertise_creative: "クリエイティブ<br>ライティング",
         expertise_creative_desc: "文化エッセイ、ナラティブプロフィール、家族の記録となるストーリーブックなど、多様な形式に対応。丁寧なリスニングと日本語での取材を通して、お客様一人ひとりの“声”を英語で表現することを大切にしています。",
         expertise_creative_link: "出版ストーリーブック",
         expertise_creative_link2: "ポートフォリオを見る",
 
-        expertise_travel: "観光・地域文化コンテンツ",
+        expertise_travel: "観光・地域文化<br>コンテンツ",
         expertise_travel_desc: "自治体・観光団体との協働経験を生かし、地域の魅力を国際的な読者に伝える旅行・文化コンテンツを制作。バイリンガルの視点から、現地の空気を丁寧にすくい取った記事を作成します。",
         expertise_travel_link: "Instagramを見る",
 
         // Works.html
         works_hero: "執筆作品",
-        works_hero_subtitle: "ポートフォリオを通じてKotonohaの実績と多様性をご覧ください",
-        trusted_by: "掲載いただいている英文メディア",
+        works_hero_subtitle: "ポートフォリオを通じて<br>Kotonohaの実績と多様性をご覧ください",
+        trusted_by: "掲載している英文メディア",
         portfolio: "ポートフォリオ",
-        cta_title: "あなたの物語を形にしませんか？",
-        cta_subtitle: "一緒に素晴らしいものを作りましょう。",
+        cta_title: "心の種から、原稿まで",
+        cta_subtitle: "一緒に物語を作りましょう。",
         cta_btn: "お問い合わせ",
         
         // Language Toggle
